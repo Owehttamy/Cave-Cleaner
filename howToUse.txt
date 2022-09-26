@@ -1,0 +1,36 @@
+All the information you'll need working with this datapack should be in here.
+----------
+
+HOW TO USE THE COMMANDS
+	/trigger cave_glow
+	- Gives persistent entities within 128 blocks glowing for 10 seconds
+	- Can only be triggered in spectator mode
+
+	/trigger cave_cleaner
+	- Kills persistent entities within 16 blocks
+	- Can only be triggered in spectator mode
+
+----------
+
+HOW TO CHANGE THE GLOWING RADIUS
+	Go to "Cave Cleaner/data/cave_cleaner/functions/trigger_cave_glow.mcfunction" and open the file.
+	The first few lines will explain what to do.
+
+HOW TO CHANGE THE GLOWING DURATION
+	Go to "Cave Cleaner/data/cave_cleaner/functions/trigger_cave_glow.mcfunction" and open the file.
+	The first few lines will explain what to do.
+
+HOW TO CHANGE THE "CLEANING" RADIUS
+	Go to "Cave Cleaner/data/cave_cleaner/functions/trigger_cave_cleaner.mcfunction" and open the file.
+	The first few lines will explain what to do.
+
+HOW TO ENABLE CAVE CLEANER IN CREATIVE MODE
+	Go to "Cave Cleaner/data/cave_cleaner/functions/schedule.mcfunction" and open the file.
+	Remove every pound/hashtag symbol ("#") in the file.
+	Don't forget to save your changes, then restart the server/world for them to go into effect.
+
+----------
+
+Confused? Couldn't find what you were looking for? Still need help? Datapack needs updating to latest version? Send me a private message at:
+Twitter - @Owehttamy
+Discord - @Owehttamy#0001
